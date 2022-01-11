@@ -149,19 +149,19 @@ sudo pip3 install --upgrade pip
 
 ### 搭建过程
 
-参考 [环境搭建步骤](https://gitee.com/openharmony-sig/device_soc_goodix/blob/master/README.md)
+参考 [环境搭建步骤](https://gitee.com/openharmony/device_soc_goodix/blob/master/README.md)
 
 
 ## 编译调试
 
-参考 [编译调试步骤](https://gitee.com/openharmony-sig/device_soc_goodix/blob/master/README.md)
+参考 [编译调试步骤](https://gitee.com/openharmony/device_soc_goodix/blob/master/README.md)
 
 
 ## 首个示例
 
 代码默认有1个示例：
-1. [BLE应用示例](https://gitee.com/openharmony-sig/vendor_goodix/tree/master/gr5515_sk_iotlink_demo)
-2. [XTS测试示例](https://gitee.com/openharmony-sig/vendor_goodix/tree/master/gr5515_sk_xts_demo)
+1. [BLE应用示例](https://gitee.com/openharmony/vendor_goodix/tree/master/gr5515_sk_iotlink_demo)
+2. [XTS测试示例](https://gitee.com/openharmony/vendor_goodix/tree/master/gr5515_sk_xts_demo)
 
 ## 参考资源
 
