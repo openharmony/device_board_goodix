@@ -106,7 +106,7 @@ GR5515 Starter Kit（以下简称GR5515 SK）套件是基于GR551x芯片（支�
 提示：
 1. 安装GProgrammer会自动安装JLINK驱动，如果PC未安装JLINK驱动，请先下载安装[GProgrammer](https://product.goodix.com/zh/software_tool/gprogrammer)。
 
-2. 开发板通过Mirco USB连接到PC后，会在设备管理器中"端口(COM和LPT)"列表中出现一个"JLink CDC UART Port(COMX)"串口号，串口助手需使用该串口号观察开机log信息。
+2. 开发板通过Mirco USB连接到PC后，会在设备管理器中“端口(COM和LPT)”列表中出现一个"JLink CDC UART Port(COMX)"串口号，串口助手需使用该串口号观察开机log信息。
 
 ## 搭建开发环境
 
@@ -140,7 +140,7 @@ sudo pip3 install --upgrade pip
 
 `python3 -m pip install --user ohos-build`
 
-5.	Ubuntu18.04 配置arm-none-eabi-gcc 10.2.1 ：
+5.	Ubuntu18.04 配置arm-none-eabi-gcc 10.2.1：
 
 下载网站：https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads 
 
@@ -169,8 +169,8 @@ sudo pip3 install --upgrade pip
 
 |            名称            |                                                                                       描述                                                                                        |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GR5515 Starter Kit用户指南 | 介绍GR5515 Starter Kit套件使用方法： [《GR5515 Starter Kit用户指南》]( https://docs.goodix.com/zh/online/detail/gr5515_starter_kit_user_guide/V1.7/42a03ba92cad1d63afd9baa8bb8c37df) |
-| GR551x开发者指南           | GR551x软硬件介绍、快速使用及资源总览： [《GR551x开发者指南》]( https://docs.goodix.com/zh/online/detail/gr551x_develop_guide/V2.3/27f7d503bcd7ad1d63fa5b316b3bde4f)                    |
+| GR5515 Starter Kit用户指南 | 介绍GR5515 Starter Kit套件使用方法：[《GR5515 Starter Kit用户指南》]( https://docs.goodix.com/zh/online/detail/gr5515_starter_kit_user_guide/V1.7/42a03ba92cad1d63afd9baa8bb8c37df) |
+| GR551x开发者指南           | GR551x软硬件介绍、快速使用及资源总览：[《GR551x开发者指南》]( https://docs.goodix.com/zh/online/detail/gr551x_develop_guide/V2.3/27f7d503bcd7ad1d63fa5b316b3bde4f)                    |
 | J-Link用户指南             | J-Link使用说明：www.segger.com/downloads/jlink/UM08001_JLink.pdf                                                                                                                   |
 | GR5515-SK-BASIC-RevC      | GR5515 Starter Kit开发板原理图：[《GR5515-SK-BASIC-RevC.pdf》]( https://product.goodix.com/zh/docview/GR5515-SK-BASIC-RevC_Rev.1.5?objectId=100&objectType=document&version=133)   |
 
