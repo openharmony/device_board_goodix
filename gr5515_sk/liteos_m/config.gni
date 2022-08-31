@@ -78,7 +78,8 @@ board_ld_flags = [
   "-lbroadcast",
   "-lhilog_lite",
   "-lhiview_lite",
-  "-lutils_kv_store",
+
+  # "-lutils_kv_store",
   "-lkernel",
   "-lgcc",
   "-lble_sdk",
