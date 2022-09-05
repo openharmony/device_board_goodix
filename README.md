@@ -106,7 +106,7 @@ GR5515 Starter Kit（以下简称GR5515 SK）套件是基于GR551x芯片（支�
 提示：
 1. 安装GProgrammer会自动安装JLINK驱动，如果PC未安装JLINK驱动，请先下载安装[GProgrammer](https://product.goodix.com/zh/software_tool/gprogrammer)。
 
-2. 开发板通过Mirco USB连接到PC后，会在设备管理器中“端口(COM和LPT)”列表中出现一个"JLink CDC UART Port(COMX)"串口号，串口助手需使用该串口号观察开机log信息。
+2. 开发板通过Mirco USB连接到PC后，会在设备管理器中“端口(COM和LPT)”列表中出现一个“JLink CDC UART Port(COMX)”串口号，串口助手需使用该串口号观察开机log信息。
 
 ## 搭建开发环境
 
