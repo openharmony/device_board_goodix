@@ -76,8 +76,9 @@ board_ld_flags = [
   "-lsamgr_adapter",
   "-lsamgr_source",
   "-lbroadcast",
-  "-lhilog_lite",
-  "-lhiview_lite",
+
+  # "-lhilog_lite",
+  # "-lhiview_lite",
 
   # "-lutils_kv_store",
   "-lkernel",
