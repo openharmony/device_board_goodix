@@ -107,3 +107,6 @@ board_configed_sysroot = ""
 
 # Board storage type, it used for file system generation.
 storage_type = ""
+
+# Avoid attest module being involved by XTS
+abi_type = "*"
