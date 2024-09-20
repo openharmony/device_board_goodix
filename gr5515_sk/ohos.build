@@ -1,0 +1,10 @@
+{
+  "parts": {
+    "device_gr5515_sk": {
+      "module_list": [
+        "//device/soc/goodix/gr551x:gr551x"
+      ]
+    }
+  },
+  "subsystem": "device_gr5515_sk"
+}
